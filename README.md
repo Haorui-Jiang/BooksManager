@@ -42,3 +42,7 @@
 - **book_template.html**: HTML 模板文件，定义了书籍管理网页的结构和样式。
 - **books.xlsx**：Excel 文件，存储书籍信息（需自行创建或准备）。
 - **books.html**：生成的输出文件，包含书籍管理网页内容。
+
+## 致谢
+
+本程序核心代码借助 [Kimi](https://kimi.moonshot.cn/)、[DeepSeek](https://www.deepseek.com/)（[腾讯元宝](https://yuanbao.tencent.com/)）等国产大模型进行编写，衷心感谢这些人工智能研究团队的技术支持。
